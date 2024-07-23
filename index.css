@@ -10,7 +10,9 @@
     height: 1400px;
     width: 100%;
     border: 10px solid hsl(0, 41%, 3%);
-    color: #060605;
+    color: hsl(60, 100%, 100%);
+    background-image: url("background.jpeg");
+    background-size: cover;
 }
 
 .content{
@@ -39,7 +41,7 @@
 .topsection h1{
     font-size: 60px;
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: #f4f2f2;
     text-transform: uppercase;
      
 }
@@ -57,7 +59,7 @@
     font-size: 60px;
     font-weight: 400;
     margin-bottom: 20px;
-    color: rgb(0, 0, 0);
+    color: #fff9f9;
 }
 
 .about p{
@@ -68,7 +70,7 @@
 
 .biography{
     margin: 50px 0;
-    color: rgb(0, 0, 0);
+    color: #fff0f0;
 }
 
 .biography h3{
